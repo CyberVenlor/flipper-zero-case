@@ -2,9 +2,10 @@
 
 A detailed CAD model of the Flipper Zero outer case created for modification, accessory design, and reverse-engineering purposes.
 
-# build with Plasticity
+### build with Plasticity
 <img width="718" height="715" alt="image" src="https://github.com/user-attachments/assets/abde9c70-9a66-4449-9630-209c0866b9c1" />
-# resin printed without polishing
+
+### resin printed without polishing
 <img width="2078" height="1120" alt="IMG_0322" src="https://github.com/user-attachments/assets/c7fa9a6a-6c2c-4968-9f94-e5503500755c" />
 
 ## Background
